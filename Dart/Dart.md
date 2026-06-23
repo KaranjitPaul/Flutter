@@ -1,5 +1,5 @@
 # Dart
 
-This folder is the Flutter-side copy of Dart learning.
+This folder is for Dart language notes and practice used as the foundation for Flutter.
 
-Main Dart practice will happen in `03_Study/Programming/Public/Dart`. When needed, we will copy the same learning step by step into this folder so Flutter also carries its Dart foundation.
+As Dart learning grows, this folder will keep the parts that are useful for Flutter development.

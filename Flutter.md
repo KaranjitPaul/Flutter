@@ -6,6 +6,6 @@ I will add work one item at a time as I learn and practice.
 
 ## Areas
 
-- [Dart](Dart/Dart.md) - copied mirror of Dart learning from Programming, used here as Flutter's language foundation
+- [Dart](Dart/Dart.md) - Dart language notes and practice used as Flutter's foundation
 
 Flutter-specific notes and projects will be added here later.
